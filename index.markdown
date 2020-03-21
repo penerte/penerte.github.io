@@ -7,15 +7,15 @@
 
 - 音ゲー
 
--- maimai 虹レ十段　8700くらい
+	- maimai 虹レ十段　8700くらい
 
--- CHUNITHM 虹レなりたて 15.10くらい
+	- CHUNITHM 虹レなりたて 15.10くらい
 
--- オンゲキ 金レ 14.25くらい
+	- オンゲキ 金レ 14.25くらい
 
--- jubeat 6000くらいで完全に停滞した
+	- jubeat 6000くらいで完全に停滞した
 
--- SOUNDVOLTEX 天極で終わってる　何もわからん
+	- SOUNDVOLTEX 天極で終わってる　何もわからん
 
 Ask.fm : [https://ask.fm/penerte?utm_so](https://ask.fm/penerte?utm_so)
 
